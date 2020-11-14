@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub 👋
 
-> [Full Version of this Readme.md](https://alik604.github.io/alik604/README_FULL)
-
+<details>
+<summary>⚡️ [Full Version of this Readme.md](https://alik604.github.io/alik604/README_FU/summary>
+<br />
+    
 -  ⏳ I’m currently
     - 🔭 Working on: Machine Learning for {Cyber Security, Natural Language Processing, BioMedical Imaging, Finance} 
     - 🌱 Learning: Neural Networks - Attension, Transformers, Bayesian 
@@ -32,7 +34,8 @@ Here are some ideas to get you started:
   * [🕸 Web ](https://github.com/alik604/alik604/blob/master/README_FULL.md#web)
   * [📱 Android](https://github.com/alik604/alik604/blob/master/README_FULL.md#android)
  - [🏫 Classes](https://github.com/alik604/alik604/blob/master/README_FULL.md#classes)
------------------------------------
+
+<\details>
 
 # Educational Background and Professional Interests
 * [My website](https://alik604.github.io)
