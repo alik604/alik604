@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 </details>
 
-# Educational Background and Professional Interests
+## Educational Background and Professional Interests
 * [My website](https://alik604.github.io)
-* [Resume of 2019](https://drive.google.com/file/d/1D8D1N0wuCMJyQsq5Z7_SVLk7exKTyh4H/view?usp=sharing)
+* [Resume of 2019]() // N/A
 
 3rd-year Cognitive Science major at Simon Fraser University. Past VP of Cognitive Science Student Society. Interested in Machine Learning for {NLP, Cyber Security, BioMed imagine and Finance} and in low/mid level Software Engineering, including backend web dev and reverse engienering APIs
 
