@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 * [My website](https://alik604.github.io)
 * [Resume of 2019]() // N/A
 
-3rd-year Cognitive Science major at Simon Fraser University. Past VP of Cognitive Science Student Society. Interested in Machine Learning for {NLP, Cyber Security, BioMed imagine and Finance} and in low/mid level Software Engineering, including backend web dev and reverse engienering APIs
+> 3rd-year Cognitive Science major at Simon Fraser University. Past VP of Cognitive Science Student Society. Interested in Machine Learning for {NLP, Cyber Security, BioMed imagine and Finance} and in low/mid level Software Engineering, including backend web dev and reverse engienering APIs
 
-Received an `A` in [CMPT 419/726: Machine Learning](https://coursys.sfu.ca/2020sp-cmpt-726-x1/pages/), a [reasearch project](https://github.com/alik604/CMPT-419/blob/master/ML_final_project%20poster.pdf) based Undergrad & Graduate split course... as a 2nd year arts major 😵  
+> Received an `A` in [CMPT 419/726: Machine Learning](https://coursys.sfu.ca/2020sp-cmpt-726-x1/pages/), a [reasearch project](https://github.com/alik604/CMPT-419/blob/master/ML_final_project%20poster.pdf) based Undergrad & Graduate split course... as a 2nd year arts major 😵  
 
 
 <a href="https://alik604.github.io/alik604/README_FULL">
