@@ -16,24 +16,24 @@ Here are some ideas to get you started:
 <summary>⚡️ [Full Version of this Readme.md](https://alik604.github.io/alik604/README_FU/summary>
 <br />
     
--  ⏳ I’m currently
+⏳ I’m currently
     - 🔭 Working on: Machine Learning for {Cyber Security, Natural Language Processing, BioMedical Imaging, Finance} 
     - 🌱 Learning: Neural Networks - Attension, Transformers, Bayesian 
     - 🤔 I’m looking for help with: [MNIST Brain](https://github.com/alik604/MNIST_Brain), Multi dimensional EEG signal classfication
-- 💬 Let's discuss: Whether one should risk their 'professional imagine' to enforce best practices and ["The maxim of manner"](https://www.sas.upenn.edu/~haroldfs/dravling/grice.html)
+💬 Let's discuss: Whether one should risk their 'professional imagine' to enforce best practices and ["The maxim of manner"](https://www.sas.upenn.edu/~haroldfs/dravling/grice.html)
     - 😡 Something I hate: When someone refers you to their paper, which provides minimal information and delegates to another paper.
-- ⚡ Famous People whom I look up to: Khabib Nurmagomedov, George hotz, Elon Musk, Ian Goodfellow, Ben Goertzel
+⚡ Famous People whom I look up to: Khabib Nurmagomedov, George hotz, Elon Musk, Ian Goodfellow, Ben Goertzel
 
-- [Projects currently in progress:](https://github.com/alik604/alik604/blob/master/README_FULL.md#personal-projects---currently)
+[Projects currently in progress:](https://github.com/alik604/alik604/blob/master/README_FULL.md#personal-projects---currently)
   * [💻 Cyber security](https://github.com/alik604/alik604/blob/master/README_FULL.md#cybersecurity) 
   * [💸 Mathematical Finance](https://github.com/alik604/mathematical-finance)
   * Soon to start more NLP and Reinforcement Learning 
-- [Projects-Past:](https://github.com/alik604/alik604/blob/master/README_FULL.md#projects-past)
+[Projects-Past:](https://github.com/alik604/alik604/blob/master/README_FULL.md#projects-past)
   * [👀 openCV object detection](https://github.com/alik604/alik604/blob/master/README_FULL.md#opencv-object-detection)
   * [🤖 SFU Robot Soccer Club](https://github.com/alik604/alik604/blob/master/README_FULL.md#sfu-robotics-club)
   * [🕸 Web ](https://github.com/alik604/alik604/blob/master/README_FULL.md#web)
   * [📱 Android](https://github.com/alik604/alik604/blob/master/README_FULL.md#android)
- - [🏫 Classes](https://github.com/alik604/alik604/blob/master/README_FULL.md#classes)
+[🏫 Classes](https://github.com/alik604/alik604/blob/master/README_FULL.md#classes)
 
 </details>
 
