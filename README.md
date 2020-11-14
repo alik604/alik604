@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   * [📱 Android](https://github.com/alik604/alik604/blob/master/README_FULL.md#android)
  - [🏫 Classes](https://github.com/alik604/alik604/blob/master/README_FULL.md#classes)
 
-<\details>
+</details>
 
 # Educational Background and Professional Interests
 * [My website](https://alik604.github.io)
