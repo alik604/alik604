@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 > [Full Version of this Readme.md](https://alik604.github.io/alik604/README_FULL) 
 
 <details>
-    <summary>⚡️About me </summary>
+    <summary>⚡️About me (Click to Expand) </summary>
     
 + ⏳ I’m currently
     - 🔭 Working on: Machine Learning for {Cyber Security, Natural Language Processing, BioMedical Imaging, Finance} 
