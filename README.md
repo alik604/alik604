@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 
 
 <a href="https://alik604.github.io/alik604/README_FULL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alik604&hide=issues&show_icons=true" height = 150 width:50%  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alik604&hide=issues&show_icons=true" height = 150 width:100%  />
 </a>
 
-
+<!--
 <a href="https://alik604.github.io/alik604/README_FULL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alik604&hide=HTML,Jupyter%20Notebook&layout=compact" height = 150 width:50%  />
 </a>
-<!--
+
 -->
