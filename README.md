@@ -59,3 +59,4 @@ Here are some ideas to get you started:
 
 -->
 <!--readme cards: https://github.com/anuraghazra/github-readme-stats -->
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alik604&repo=alik604)](https://github.com/alik604/alik604) --> 
