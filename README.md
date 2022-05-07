@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 + [Projects currently in progress:](https://github.com/alik604/alik604/blob/master/README_FULL.md#personal-projects---currently)
   * [📊 Probabilistic learning](https://github.com/alik604/Probabilistic-learning)
   * [💻 Cyber security](https://github.com/alik604/alik604/blob/master/README_FULL.md#cybersecurity) 
-  * [💸 Mathematical Finance](https://github.com/alik604/mathematical-finance)
+  * [💸 Algorithmic Trading](https://github.com/alik604/algorithmic-trading)
 + [Projects-Past:](https://github.com/alik604/alik604/blob/master/README_FULL.md#projects-past)
   * [🧠 MNIST Brain—Multi dimensional EEG signal classfication](https://github.com/alik604/MNIST_Brain), 
   * [🤖 Robotics](https://github.com/alik604/ra)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   * [🐱‍💻 Backdoor (pseudoHacking)](https://github.com/alik604/myPyBackDoor)
   * [👀 openCV object detection](https://github.com/alik604/alik604/blob/master/README_FULL.md#opencv-object-detection)
   * [🤖 SFU Robot Soccer Club](https://github.com/alik604/sfuskynet))
-  * [🕸 Web ](https://github.com/alik604/alik604/blob/master/README_FULL.md#web)
+  * [🕸 Web](https://github.com/alik604/alik604/blob/master/README_FULL.md#web)
   * [📱 Android](https://github.com/alik604/alik604/blob/master/README_FULL.md#android)
 + [🏫 Classes](https://github.com/alik604/alik604/blob/master/README_FULL.md#classes)
 
