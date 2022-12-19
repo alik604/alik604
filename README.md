@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 [![Number of visitors](https://visitor-badge.glitch.me/badge?page_id=alik604.alik604)](https://github.com/jwenjian/visitor-badge) | [My website](https://alik604.github.io) |  [Resume](https://github.com/alik604/alik604/blob/master/Resume.pdf) | [Linkedin](https://www.linkedin.com/in/alik604) | [Medium](https://alik604.medium.com/) | [Youtube](https://www.youtube.com/channel/UCEW7kjtBzFSiSC4srpfgGDA/videos/)
 
+Currently working as a Software Engineer (L4) at Amazon! 
+
 I was a Cognitive Science major at Simon Fraser University, with a background in data science (*which includes machine learning*) for cyber-security and finance. This skill set is bolstered with natural lanaguge processing & data mining-- as they are often necessities. I am also familiar reverse engineering APIs like that of WealthSimple, my stock broker. President of Cognitive Science Student Society (2021-2022), I started as the VP (2019-2020), and chair of the steering committee (2022).   
 
 
