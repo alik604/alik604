@@ -55,11 +55,12 @@ This must be why Einstein say school kills passion for learning. And why my cowo
     
 My current "Projects" are
 * Buy a home
+    > brb need to invent real-estate as code 
 * Have an emergency fund
 * Afford furniture and things to put in said home // this cost over 10% of a downpayment
     > Boots theory of economics -- Have nice things for the get-go; No "Upgrading"
 * Get a car.. Used Toyata, Honda, MX-5. And make it look nice.  
-    > brb need to invent real-estate as code 
+
 
 </details>
 
