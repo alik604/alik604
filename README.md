@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub 👋
 
-> [Full Version of this Readme.md](https://alik604.github.io/alik604/README_FULL) 
+> [Full Version of this Readme.md (Deprecated in 2022)](https://alik604.github.io/alik604/README_FULL) 
 
 <details>
     <summary>⚡️About me (Click to Expand) </summary>
@@ -24,11 +24,11 @@ Here are some ideas to get you started:
     - 🤬 SomeThing I loath: `Splunk`. It is very hard to inport a package into Machine Learning ToolKit without doing something hacky. Often I must run a search twice   
 + ⚡ Famous People whom I look up to: Khabib Nurmagomedov, George hotz, Elon Musk, Ben Goertzel
 
-+ [Projects currently in progress:](https://github.com/alik604/alik604/blob/master/README_FULL.md#personal-projects---currently)
++ [Most recent Projects:](https://github.com/alik604/alik604/blob/master/README_FULL.md#personal-projects---currently)
   * [📊 Probabilistic learning](https://github.com/alik604/Probabilistic-learning)
   * [💻 Cyber security](https://github.com/alik604/alik604/blob/master/README_FULL.md#cybersecurity) 
   * [💸 Algorithmic Trading](https://github.com/alik604/algorithmic-trading)
-+ [Projects-Past:](https://github.com/alik604/alik604/blob/master/README_FULL.md#projects-past)
++ [Past Projects:](https://github.com/alik604/alik604/blob/master/README_FULL.md#projects-past)
   * [🧠 MNIST Brain—Multi dimensional EEG signal classfication](https://github.com/alik604/MNIST_Brain), 
   * [🤖 Robotics](https://github.com/alik604/ra)
   * [📚 Natural Language Processing](https://github.com/alik604/multi-label-classification)
@@ -39,6 +39,27 @@ Here are some ideas to get you started:
   * [🕸 Web](https://github.com/alik604/alik604/blob/master/README_FULL.md#web)
   * [📱 Android](https://github.com/alik604/alik604/blob/master/README_FULL.md#android)
 + [🏫 Classes](https://github.com/alik604/alik604/blob/master/README_FULL.md#classes)
+    
+The evolution of my Github    
+* 2018 Post exam hustle
+* 2019 Weekend warrior
+* 2020 Monster unleashed
+* 2021 No step back
+
+* 2021/2022 5 Courses, day trading, president of Cognitive Science student society. No more coding for fun
+* 2022/2023 9-5 Hustle. No more coding for fun
+
+My passion got me the job every other engineer wishes they had. And now it looks like my passion was just a means to an end. 
+
+This must be why Einstein say school kills passion for learning. And why my coworker said to not work on weekends.
+    
+My current "Projects" are
+* Buy a home
+* Have an emergency fund
+* Afford furniture and things to put in said home // this cost over 10% of a downpayment
+    > Boots theory of economics -- Have nice things for the get-go; No "Upgrading"
+* Get a car.. Used Toyata, Honda, MX-5. And make it look nice.  
+    > brb need to invent real-estate as code 
 
 </details>
 
@@ -52,7 +73,7 @@ I was a Cognitive Science major at Simon Fraser University, with a background in
 
 
 > My favorite course was [CMPT 419/726: Machine Learning](https://coursys.sfu.ca/2020sp-cmpt-726-x1/pages/), a [reasearch project](https://github.com/alik604/WallStreetBets_LSTM/blob/master/Paper%20-%20Predicting%20the%20S%26P%20500%20with%20LSTMs%20and%20GloVe.pdf) based course. I took it at the end of my second academic year, I received an `A`. 
->
+
 > A year later I took [CMPT 419/720: Robotic Autonomy](https://github.com/alik604/ra), which was by the same professor but focused on robotics, via optimal control and reinforment learning. I received an `A+` and worked as a Research Assistant at the [MARS Lab](https://sfumars.com/people/khizr-ali-pardhan/) over the subsequent summer continuing [our  project](https://github.com/alik604/ra). Both these courses were Undergrad & Graduate split. 
 
 <a href="https://alik604.github.io/alik604/README_FULL">
